@@ -1,0 +1,22 @@
+{
+  "name": "statman-event",
+  "version": "0.0.1",
+  "description": "statman-event is one of the capabilities from the statman library. It is a simple help your system record system events for logging and diagnostic purposes",
+  "main": "lib/event.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonray/statman-event.git"
+  },
+  "keywords": [
+    "statman"
+  ],
+  "author": "jasonray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonray/statman-event/issues"
+  },
+  "homepage": "https://github.com/jasonray/statman-event#readme"
+}
