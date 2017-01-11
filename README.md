@@ -31,6 +31,10 @@ TODO
 * result.mesage
 
 ## record(event)
+Record a single event
+
+## startRecord(event), stopRecord(event)
+TODO
 
 ## Example
 TODO
