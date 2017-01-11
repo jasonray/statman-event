@@ -13,7 +13,7 @@
   "keywords": [
     "statman"
   ],
-  "author": "jasonray",
+  "author": "jason ray <jason@jayray.net> (https://github.com/jasonray)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jasonray/statman-event/issues"
