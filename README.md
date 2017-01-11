@@ -21,7 +21,16 @@ Reference in your app:
 TODO
 
 # Use it!
-TODO (record API)
+## Event Data Model
+* id: automatically generated internal identifier
+* ref: publisher created unique identifier
+* parentId: (optional) points to a parent of this event
+* date: date of this event
+* delta: if this event represents the conclusion in regards to the parent, then it represents the millliseconds since the parent
+* result.status
+* result.mesage
+
+## record(event)
 
 ## Example
 TODO
